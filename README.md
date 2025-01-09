@@ -63,9 +63,9 @@ Depth Estimation".***<br>
 ## Results:
 
 ### Quantitative Results:
-![](fig/quantitative results.png)
+![](fig/quantitativeresults.png)
 ### Visual Comparisons:
-![](fig/visual comparisons.png)
+![](fig/visualcomparisons.png)
 
 ### Performance on real LFs:
-![](fig/visual on real LFs.png)
+![](fig/visualonrealLFs.png)
